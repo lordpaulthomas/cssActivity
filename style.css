@@ -1,0 +1,60 @@
+.container {
+    display: table;
+    width: 100%;
+    clear: both;
+}
+
+.box1{
+    height: 200px;
+    width: 80%;
+    background-color: green;
+    float: left;
+}
+.box2{
+    height: 200px;
+    width: 20%;
+    background-color: blue;
+    float: left;
+}
+.box3{
+    height: 200px;
+    width: 60%;
+    background-color: grey;
+    float: left;
+}
+.box4{
+    height: 200px;
+    width: 40%;
+    background-color: pink;
+    float: left;
+}
+.box5{
+    height: 200px;
+    width: 25%;
+    background-color: green;
+    float: left;
+}
+.box6{
+    height: 200px;
+    width: 25%;
+    background-color: white;
+    float: left;
+}
+.box7{
+    height: 200px;
+    width: 25%;
+    background-color: blue;
+    float: left;
+}
+.box7{
+    height: 200px;
+    width: 25%;
+    background-color: red;
+    float: left;
+}
+.box8{
+    height: 200px;
+    width: 25%;
+    background-color: tan;
+    float: left;
+}
